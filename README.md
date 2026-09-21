@@ -1,6 +1,14 @@
 # Rizwan Alam
 
-I write systems and telecom software in C, C++ and Rust. I have worked at C-DOT since 2013, mainly on IMS and voice-network software. My interests include Linux internals, protocol implementation, concurrency and systems security.
+I am a systems and telecom engineer at C-DOT, where I have worked since 2013. My focus is C/C++ and Rust software on Linux, with a background in IMS, SIP and Diameter. I am interested in protocol integration, debugging, concurrency and failure handling.
+
+## Engineering focus
+
+- SIP/VoIP and Diameter protocol behaviour, routing and integration.
+- C/C++ and Rust systems programming on Linux, including concurrency and network communication.
+- Reliability and systems security: explicit failure handling, regression tests, memory safety and bounded resource use.
+
+My public projects are separate from my professional deployment experience. The telecom repositories document their implemented scope and remaining work; the older C repositories are coursework.
 
 ## Rust and telecom contributions
 
