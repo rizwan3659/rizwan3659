@@ -21,6 +21,9 @@ C contribution in progress: [Kamailio #4937](https://github.com/kamailio/kamaili
 
 ## Projects and exercises
 
+- [sip-rtp-diagnostics](https://github.com/rizwan3659/sip-rtp-diagnostics) — offline capture diagnostics in C: bounded PCAP/UDP/RTP parsing, sequence-gap observations and synthetic tests. Initial scope; no full SIP transaction analysis yet.
+- [linux-kernel-eventqueue](https://github.com/rizwan3659/linux-kernel-eventqueue) — C kernel-programming lab: bounded character-device queue, blocking/nonblocking I/O, poll and backpressure. Includes kernel build CI and a VM test harness; runtime kernel validation is pending.
+
 - [ro-camel-iwf](https://github.com/rizwan3659/ro-camel-iwf) — IMSCAP interworking prototype in Rust: TAS Diameter Ro to CAMEL CAP v2. Includes a charging state machine and an in-process simulator; CAP wire transport and clustered failover remain to be implemented.
 
 - [ims-5gc-iwf](https://github.com/rizwan3659/ims-5gc-iwf) — Diameter-to-5G Core service interworking in Rust. Includes a protocol codec, routing, translation rules and integration tests. The README lists remaining integration work.
