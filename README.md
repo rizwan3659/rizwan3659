@@ -11,6 +11,8 @@ Two of my changes to [rsipstack](https://github.com/restsend/rsipstack), a Rust 
 
 ## Projects and exercises
 
+- [ro-camel-iwf](https://github.com/rizwan3659/ro-camel-iwf) — experimental CAMEL-to-Ro charging core in Rust, with durable sessions, replay handling, a Diameter codec and measured load tests. SS7 transport and clustered failover are not implemented yet.
+
 - [ims-5gc-iwf](https://github.com/rizwan3659/ims-5gc-iwf) — Diameter-to-5G Core service interworking in Rust. Includes a protocol codec, routing, translation rules and integration tests. The README lists remaining integration work.
 - [IPC](https://github.com/rizwan3659/IPC) — C client/server exercises using UNIX domain sockets, FIFOs and System V message queues.
 - [IITD kernel assignments](https://github.com/rizwan3659/IITD_kernel_assignments) — older C coursework, including scheduler changes and system-call experiments.
