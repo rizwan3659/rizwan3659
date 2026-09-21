@@ -17,6 +17,6 @@ Two of my changes to [rsipstack](https://github.com/restsend/rsipstack), a Rust 
 - [linux-hardening-audit](https://github.com/rizwan3659/linux-hardening-audit) — Python checks for Linux hardening settings, with offline rule tests.
 - [tls-audit](https://github.com/rizwan3659/tls-audit) — Python tooling for TLS and certificate configuration checks.
 
-The coursework repositories are learning exercises; they are separate from my professional telecom work. Repository history retains contributor and tool-assisted authorship credits.
+The coursework repositories are learning exercises; they are separate from my professional telecom work.
 
 [LinkedIn](https://www.linkedin.com/in/rizwan-alam-03304636/)
