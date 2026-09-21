@@ -10,12 +10,14 @@ I am a systems and telecom engineer at C-DOT, where I have worked since 2013. My
 
 My public projects are separate from my professional deployment experience. The telecom repositories document their implemented scope and remaining work; the older C repositories are coursework.
 
-## Rust and telecom contributions
+## C and Rust telecom contributions
 
 Two of my changes to [rsipstack](https://github.com/restsend/rsipstack), a Rust SIP stack, were merged upstream:
 
 - [Service-Route support (#142)](https://github.com/restsend/rsipstack/pull/142): parse the SIP header and retain the route set returned during registration.
 - [Preloaded routing (#143)](https://github.com/restsend/rsipstack/pull/143): use that route set on outgoing requests, with tests for ordering and the default behaviour.
+
+C contribution in progress: [Kamailio #4937](https://github.com/kamailio/kamailio/pull/4937) proposes rejecting malformed SIP Contact URIs during REGISTER handling in the registrar and IMS S-CSCF registrar modules. This PR is open, not merged.
 
 ## Projects and exercises
 
